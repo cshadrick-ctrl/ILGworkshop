@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/synthesise.js": { "maxDuration": 120 }
-  }
-}
